@@ -26,5 +26,13 @@ Open in Android Studio and run, or:
 - **mXparser** — math expression parser
 - **Material Design** — UI components
 
+## More from Shivam
+
+Check out my free, open-source **Black Firefox** browser — a fast, private Windows browser with built-in ad blocking and a sleek Firefox Proton theme:
+
+- **[Black Firefox on GitHub](https://github.com/shivamkumarmehta64-sketch/Black-Firefox)** — source, releases, and easy downloads (portable + setup installers)
+
+Also explore [my other apps](https://github.com/shivamkumarmehta64-sketch) — more browsers and tools, all free and ad-free.
+
 ## License
 MIT
